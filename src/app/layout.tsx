@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     type: "website",
     images: [
       {
-        url: "/opengraph-image",
+        url: "/og-image.png", // ✅ Changed to your static image [web:185]
         width: 1200,
         height: 630,
         alt: "BabaBMI Cal – Professional BMI Calculator",
@@ -25,7 +25,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "BabaBMI Cal – Precision Body Metrics",
     description: "Professional-grade BMI calculator for accurate health tracking.",
-    images: ["/opengraph-image"],
+    images: ["/og-image.png"], // ✅ Updated to match [web:185]
   },
 
   // Additional SEO
