@@ -5,7 +5,7 @@ It focuses on **clarity**, **accuracy**, and a premium, health‑dashboard style
 
 ---
 
-## Deploy Link: 
+## Deploy Link: https://baba-bmi-calc.vercel.app/
 
 ## ✨ Features
 
